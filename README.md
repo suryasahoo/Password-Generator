@@ -7,13 +7,11 @@ A simple password generator built with React and Vite.
 - [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
-
 - [Contributing](#contributing)
-
 
 ## Demo
 
- live demo link -  [Live Demo](https://passwordgeneratorbysurya.netlify.app/)
+Test it on your Machine -  [Live Demo](https://passwordgeneratorbysurya.netlify.app/)
 
 ## Features
 
